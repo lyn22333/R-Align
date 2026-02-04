@@ -1,0 +1,4 @@
+openai==2.9.0
+tqdm==4.67.1
+huggingface_hub==1.2.1
+
