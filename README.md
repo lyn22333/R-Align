@@ -42,7 +42,7 @@ We provide the **Rationale-Align GenRMs** and the **Downstream Policy** trained 
 | Data | Description | Link |
 | :--- | :--- | :--- |
 | **Rationale-Aware Benchmark** | Eval data from HelpSteer3, RewardBench2, PPE with **Golden Rationales**. | [🤗 HuggingFace](https://huggingface.co/datasets/lyn22333/R-Align-BMK) |
-| **R-Align Training Data** | Augmented Skywork, Code-Preference, Math-DPO with rationales. | [🤗 HuggingFace](https://huggingface.co/datasets/lyn22333/R-Align-Training-Data) |
+| **R-Align Training Data** | Augmented Preference datasets with rationales. For GenRM RL training. | [🤗 HuggingFace](https://huggingface.co/datasets/lyn22333/R-Align-RL-Data) |
 
 ## 👀 Overview
 
