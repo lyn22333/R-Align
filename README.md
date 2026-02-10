@@ -4,7 +4,7 @@
 <h1 align="center"> R-Align: Enhancing Generative Reward Models through Rationale-Centric Meta-Judging </h1>
 
 <div align="center">
-  <a href="https://arxiv.org/abs/xxxx.xxxxx">
+  <a href="https://arxiv.org/abs/2602.06763">
     <img src="https://img.shields.io/badge/Paper-arXiv-b5212f.svg?logo=arxiv" alt="Arxiv">
   </a>
   <a href="https://huggingface.co/papers/xxxx.xxxxx">
